@@ -1,0 +1,39 @@
+*{
+  font-family: 'Trebuchet MS';
+}
+
+.hi{
+  border: 1px solid #000000;
+  width: 350px;
+  height: 630px;
+  padding: 15px;
+  margin: 15px;
+  display: inline-table;
+  text-align: left;
+  background-color: white;
+}
+.hi > p{
+  color: #252525;
+  font-size: 20px;
+  line-height: 35px;
+  padding: 0px;
+  margin: 0px;
+
+
+}
+.gonzo{
+  border: 2px dashed orange;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: #83d6bb;
+}
+
+.animalitos{
+  border:1px solid red;
+  width:100%;
+  box-sizing:border-box;
+  padding:10px;
+  text-align:center;
+}
